@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CtoFConverter {
+class CtoFConverter {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double celsius = 0;
